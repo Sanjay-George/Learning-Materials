@@ -8,3 +8,7 @@ This repo will contain all learning materials that I've used for C#, .NET core /
 
 
 ## Async Await
+
+
+## Design Patterns
+1. [Kudvenkat Videos](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1&ab_channel=kudvenkat)
