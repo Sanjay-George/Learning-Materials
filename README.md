@@ -12,3 +12,8 @@ This repo will contain all learning materials that I've used for C#, .NET core /
 
 ## Design Patterns
 1. [Kudvenkat Videos](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1&ab_channel=kudvenkat)
+
+
+## Consumers, Queues, APIGateway, Exchanges
+1. [API gateway CW doc](https://docs.cwsystem.in/wiki-docs/apigateway/API-Gateway.html)
+2. [Exchanges](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
