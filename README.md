@@ -15,5 +15,4 @@ This repo will contain all learning materials that I've used for C#, .NET core /
 
 
 ## Consumers, Queues, APIGateway, Exchanges
-1. [API Gateway CW doc](https://docs.cwsystem.in/wiki-docs/apigateway/API-Gateway.html)
-2. [RabbitMQ - Exchanges, Routing Key, Bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
+1. [RabbitMQ - Exchanges, Routing Key, Bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
