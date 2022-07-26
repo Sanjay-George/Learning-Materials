@@ -14,10 +14,14 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 2. [Terraform](https://www.terraform.io/)
 
 ## System Design - Microservices, Consumers, Queues, APIGateway, Exchanges
-1. [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/?utm_source=pocket_mylist)
-2. [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/?utm_source=pocket_mylist)
-3. [RabbitMQ - Exchanges, Routing Key, Bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
-4. [Kafka vs RabbitMQ](https://www.projectpro.io/article/kafka-vs-rabbitmq/451?utm_source=pocket_mylist)
+1. [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/?utm_source=pocket_mylist)
+2. [RabbitMQ - Exchanges, Routing Key, Bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
+3. [Kafka vs RabbitMQ](https://www.projectpro.io/article/kafka-vs-rabbitmq/451?utm_source=pocket_mylist)
+
+### API Gateway
+1. [Express Gateway](https://www.express-gateway.io/)
+2. [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+3. [Building API gateway in Node.js](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
 
 ## Design Patterns
 1. [Kudvenkat Videos](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1&ab_channel=kudvenkat)
