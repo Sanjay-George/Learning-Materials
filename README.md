@@ -44,3 +44,6 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 ## Async Await
 1. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
+## Misc.
+1. [Proxy vs Reverse Proxy](https://stackoverflow.com/questions/224664/whats-the-difference-between-a-proxy-server-and-a-reverse-proxy-server)
+
