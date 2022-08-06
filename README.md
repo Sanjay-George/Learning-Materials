@@ -13,6 +13,9 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 1. [Ansible](https://www.freecodecamp.org/news/what-is-ansible/)
 2. [Terraform](https://www.terraform.io/)
 
+### AWS
+1. [Internet Gateway vs NAT gateway](https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6)
+
 ## System Design - Microservices, Consumers, Queues, APIGateway, Exchanges
 1. [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/?utm_source=pocket_mylist)
 2. [RabbitMQ - Exchanges, Routing Key, Bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
