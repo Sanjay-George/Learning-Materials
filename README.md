@@ -44,6 +44,11 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 2. [Registering multiple implementations of interface in .NET core](https://dejanstojanovic.net/aspnet/2018/december/registering-multiple-implementations-of-the-same-interface-in-aspnet-core/) [TODO: Update how this is handled in .NET framework?]
 3. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
+## React.js
+1. https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
+2. https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/
+3. https://codeforgeek.com/render-html-file-expressjs/
+
 ## Async Await
 1. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
