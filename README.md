@@ -39,12 +39,15 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 4. [Building custom Node.js event emitters](https://blog.logrocket.com/building-custom-node-js-event-emitters/)
 5. [Security Best Practices for Node.js Apps](https://hackernoon.com/security-best-practices-for-nodejs-apps-to1k313u?utm_source=pocket_mylist) : extendable to any server language
 
+## React.js
+1. [React ecosystem GitHub](https://github.com/enaqx/awesome-react#react-hooks)
+
 ## .NET Core
 1. [Dependency Injection using IServiceProvider](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage) : Also illustrates **singleton**, **transient** and **scoped** objects.
 2. [Registering multiple implementations of interface in .NET core](https://dejanstojanovic.net/aspnet/2018/december/registering-multiple-implementations-of-the-same-interface-in-aspnet-core/) [TODO: Update how this is handled in .NET framework?]
 3. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
-## Async Await
+### Async Await
 1. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
 ## Misc.
