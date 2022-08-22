@@ -32,18 +32,23 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 2. [DoFactory C#](https://www.dofactory.com/net/design-patterns)
 3. [DoFactor JS](https://www.dofactory.com/javascript/design-patterns)
 
-## Node.js
+## JavaScript
+
+### Core concepts
+1. [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/)
+
+### Node.js
 1. [Multi-threading in Node.js](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
 2. [Microservice Design Patterns for Node.js](https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83)
 3. [Difference between the Event Loop in Browser and Node JS](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113?utm_source=pocket_mylist)
 4. [Building custom Node.js event emitters](https://blog.logrocket.com/building-custom-node-js-event-emitters/)
 5. [Security Best Practices for Node.js Apps](https://hackernoon.com/security-best-practices-for-nodejs-apps-to1k313u?utm_source=pocket_mylist) : extendable to any server language
 
-## React.js
+### React.js
 1. [React ecosystem GitHub](https://github.com/enaqx/awesome-react#react-hooks)
 
-## .NET Core
-1. [Dependency Injection using IServiceProvider](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage) : Also illustrates **singleton**, **transient** and **scoped** objects.
+## .NET
+1. [Dependency Injection using IServiceProvider - .NET Core](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage) : Also illustrates **singleton**, **transient** and **scoped** objects.
 2. [Registering multiple implementations of interface in .NET core](https://dejanstojanovic.net/aspnet/2018/december/registering-multiple-implementations-of-the-same-interface-in-aspnet-core/) [TODO: Update how this is handled in .NET framework?]
 3. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
