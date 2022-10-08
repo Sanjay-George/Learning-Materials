@@ -8,7 +8,11 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 * **System Design** 💻 : 
 * **Design Patterns** 💅 : 
 * **JavaScript** 🧑‍💻 : https://github.com/Sanjay-George/Learning-Materials/blob/master/javascript.md
-* **.NET** 🧑‍💻 :
+* **.NET** 🧑‍💻 : https://github.com/Sanjay-George/Learning-Materials/blob/master/dotnet.md
+
+
+
+
 
 
 ## System Design - Microservices, Consumers, Queues, APIGateway, Exchanges
@@ -27,15 +31,4 @@ Helps with 📘 -> 📖 -> 🧠 -> 💻
 2. [DoFactory C#](https://www.dofactory.com/net/design-patterns)
 3. [DoFactor JS](https://www.dofactory.com/javascript/design-patterns)
 
-
-## .NET
-1. [Dependency Injection using IServiceProvider - .NET Core](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage) : Also illustrates **singleton**, **transient** and **scoped** objects.
-2. [Registering multiple implementations of interface in .NET core](https://dejanstojanovic.net/aspnet/2018/december/registering-multiple-implementations-of-the-same-interface-in-aspnet-core/) [TODO: Update how this is handled in .NET framework?]
-3. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
-
-### Async Await
-1. [Why ConfigureAwait(false) isn't required in .NET Core](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
-
-## Misc.
-1. [Proxy vs Reverse Proxy](https://stackoverflow.com/questions/224664/whats-the-difference-between-a-proxy-server-and-a-reverse-proxy-server)
 
