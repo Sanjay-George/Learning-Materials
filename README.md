@@ -1,20 +1,15 @@
 # Learning-Materials
 Helps with 📘 -> 📖 -> 🧠 -> 💻
 
-## Cloud 🌦️ Related
-### K8s
-1. [Moving from kOps to EKS](https://www.productboard.com/blog/moving-from-kops-to-eks/?utm_source=pocket_mylist)
 
-### Multi-⛈️
-1. [Multi-Cloud Is a Trap](https://bravenewgeek.com/multi-cloud-is-a-trap/?utm_source=pocket_mylist)
-2. [Multi-cloud Architecture Guide](https://www.backblaze.com/blog/multi-cloud-strategy-architecture-guide/?utm_source=pocket_mylist)
+## Topics 
+**Note:** This readme is being revamped. 
+* **Cloud Computing** 🌦️ : https://github.com/Sanjay-George/Learning-Materials/blob/master/cloud-computing.md
+* **System Design** 💻 : 
+* **Design Patterns** 💅 : 
+* **JavaScript** 🧑‍💻 :
+* **.NET** 🧑‍💻 :
 
-### Deployment 
-1. [Ansible](https://www.freecodecamp.org/news/what-is-ansible/)
-2. [Terraform](https://www.terraform.io/)
-
-### AWS
-1. [Internet Gateway vs NAT gateway](https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6)
 
 ## System Design - Microservices, Consumers, Queues, APIGateway, Exchanges
 1. [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/?utm_source=pocket_mylist)
