@@ -29,7 +29,6 @@ Find tips and guides on interesting topics here: https://github.com/Sanjay-Georg
 
 ## Design Patterns
 1. [Kudvenkat Videos](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1&ab_channel=kudvenkat)
-2. [DoFactory C#](https://www.dofactory.com/net/design-patterns)
-3. [DoFactor JS](https://www.dofactory.com/javascript/design-patterns)
+2. [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 
