@@ -22,10 +22,9 @@ Find tips and guides on interesting topics here: https://github.com/Sanjay-Georg
 3. [Kafka vs RabbitMQ](https://www.projectpro.io/article/kafka-vs-rabbitmq/451?utm_source=pocket_mylist)
 
 ### API Gateway
-1. [Express Gateway](https://www.express-gateway.io/)
-2. [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
-3. [Building API gateway in Node.js](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
-4. [The API gateway pattern versus the Direct client-to-microservice communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)
+1. [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+2. [Building API gateway in Node.js](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
+3. [The API gateway pattern versus the Direct client-to-microservice communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)
 
 ## Design Patterns
 1. [Kudvenkat Videos](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1&ab_channel=kudvenkat)
