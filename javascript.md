@@ -2,7 +2,8 @@
 
 ## Core concepts
 1. [Kyle Simpson - You Don't Know JS 1st Ed](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
-2. [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/)
+2. [Javascript.Info - The Modern JavaScript Tutorial](https://javascript.info/)
+3. [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/)
 
 ## Node.js
 1. [Multi-threading in Node.js](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
